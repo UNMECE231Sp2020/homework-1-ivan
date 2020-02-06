@@ -15,7 +15,7 @@ int main() {
 	}
 
 	for(x=0; x<2; x++){
-		double_hdlr(dub_fun[x], a);
+		double_hdlr(dub_fun[x], a);							double_hdlr(dub_fun[x], b);	
 	}
 
 	return 0;
